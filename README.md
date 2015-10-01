@@ -1,2 +1,2 @@
 # Hello-Go
-First repo for Go - Just a test
+Setting up a test repo for Go testing
